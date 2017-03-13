@@ -10,4 +10,5 @@ SHA256: 026003b23d3d7d276daf28cc4828fd014c02e8257f054806d3e0316c8b1a7120
 Section: Tweaks
 Description: Makes the statusbar white on lock screen and home screen, useful for tweaks that change the color of the status bar icons
 Author: Rival Dev <bike01@rogers.com>
+Depiction: https://rival-dev.github.io/depic/whitestatusbar/index.html
 Name: White Statusbar
