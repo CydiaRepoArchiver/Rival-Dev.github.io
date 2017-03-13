@@ -1,0 +1,13 @@
+Package: com.rival-dev.whitestatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rival Dev <bike01@rogers.com>
+Filename: debs//com.rival-dev.whitestatusbar
+Size: 3252
+MD5sum: 5a16166e381002bb81d57f3b25c28acc
+SHA1: b8d87f9feeca3b77a9f6dce23e8af840617dcb20
+SHA256: 026003b23d3d7d276daf28cc4828fd014c02e8257f054806d3e0316c8b1a7120
+Section: Tweaks
+Description: Makes the statusbar white on lock screen and home screen, useful for tweaks that change the color of the status bar icons
+Author: Rival Dev <bike01@rogers.com>
+Name: White Statusbar
