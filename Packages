@@ -1,14 +1,14 @@
-Package: com.rival-dev.whitestatusbar
+Package: com.rival-dev.colormebars
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Rival Dev <bike01@rogers.com>
-Filename: debs//com.rival-dev.whitestatusbar
-Size: 3252
-MD5sum: 5a16166e381002bb81d57f3b25c28acc
-SHA1: b8d87f9feeca3b77a9f6dce23e8af840617dcb20
-SHA256: 026003b23d3d7d276daf28cc4828fd014c02e8257f054806d3e0316c8b1a7120
+Filename: debs//com.rival-dev.colormebars.deb
+Size: 5834
+MD5sum: fa5f3d186b9e081786cd6138b060cb36
+SHA1: a01b538fc4e38c8a87203e36471e4759986e9de7
+SHA256: 0d2145d7bc5c9209ff5aec838dbb5e413ba3b0a33b0b72b210dd454d329b44b0
 Section: Tweaks
-Description: Makes the statusbar white on lock screen and home screen, useful for tweaks that change the color of the status bar icons
+Description: This tweak does exactly what the title says. It lets you change the color of the statusbar to what ever color you want because when using tweaks that change the color of statusbar icons it doesnt always work with a dark background, this tweak will let you use any background you want and still be able to see your colored statusbar icons.
 Author: Rival Dev <bike01@rogers.com>
-Depiction: https://rival-dev.github.io/depic/whitestatusbar/index.html
-Name: White Statusbar
+Depiction: 
+Name: Color Me Bars
